@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Blog System
 
 A lightweight and developer-friendly **Blog System with CMS and GitHub automation**, built for speed, simplicity, and full control.
@@ -15,7 +15,7 @@ A lightweight and developer-friendly **Blog System with CMS and GitHub automatio
 
 
 ## 📁 Project Structure
-
+```
 
 
 blog_system/
