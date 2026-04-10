@@ -3,7 +3,6 @@
 
 A lightweight and developer-friendly **Blog System with CMS and GitHub automation**, built for speed, simplicity, and full control.
 
----
 
 ## 📌 Features
 
@@ -14,7 +13,6 @@ A lightweight and developer-friendly **Blog System with CMS and GitHub automatio
 - 📂 Clean and organized structure
 - 🧠 Developer-focused workflow
 
----
 
 ## 📁 Project Structure
 
@@ -54,7 +52,6 @@ git clone https://github.com/nksdev/blog_system.git
 cd blog_system
 ````
 
----
 
 ### 2️⃣ Setup
 
@@ -63,7 +60,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
----
+
 
 ### 3️⃣ Start Project
 
@@ -72,7 +69,7 @@ chmod +x start.sh
 ./start.sh
 ```
 
----
+
 
 ## 🧠 CMS Usage
 
@@ -90,7 +87,6 @@ python blog_cms.py
 * Edit posts
 * Manage blog content
 
----
 
 ## 🔄 GitHub Automation
 
@@ -106,7 +102,6 @@ python blog_cms.py
 ./scripts/sync_to_github.sh
 ```
 
----
 
 ## 🌐 Tech Stack
 
@@ -125,19 +120,18 @@ python blog_cms.py
 * 🤖 AI content generation
 * 🎨 UI/UX upgrades
 
----
 
 ## 🤝 Contributing
 
 Pull requests are welcome. Open an issue first to discuss major changes.
 
----
+
 
 ## 📄 License
 
 Open-source — feel free to use and modify.
 
----
+
 
 ## 👨‍💻 Author
 
@@ -146,7 +140,7 @@ Open-source — feel free to use and modify.
 * 📸 Instagram: [https://www.instagram.com/namanmic/](https://www.instagram.com/namanmic/)
 * 💼 LinkedIn: [https://www.linkedin.com/in/namanmic/](https://www.linkedin.com/in/namanmic/)
 
----
+
 
 ## 💬 Note
 
