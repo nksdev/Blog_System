@@ -364,11 +364,11 @@ If the CMS won't open:
 
 Edit `blog/index.html` and find the footer section:
 
-```html
+
 <a href="https://www.instagram.com/namanmic" target="_blank">...</a>
 <a href="https://www.linkedin.com/" target="_blank">...</a>
 <a href="https://www.github.com/nksdev/" target="_blank">...</a>
-```
+
 
 ### Styling
 
