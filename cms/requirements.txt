@@ -1,0 +1,8 @@
+# Python requirements for Blog CMS
+# No external packages required - uses only standard library
+# tkinter is part of Python standard library
+
+# For future enhancements, you might add:
+# requests>=2.31.0
+# Pillow>=10.0.0
+# markdown>=3.5.0
